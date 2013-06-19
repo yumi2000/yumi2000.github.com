@@ -7,7 +7,7 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: Y
+name: wangybehere
 url: http://wangybehere.github.io
 description: IN GOD WE TRUST 
 github: wangybehere
