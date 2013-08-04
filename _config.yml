@@ -1,4 +1,4 @@
-baseurl: /wangybehere@github.com
+baseurl: /yumi2000@github.com
 
 markdown: rdiscount
 pygments: true
@@ -7,9 +7,9 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: wangybehere
-url: http://wangybehere.github.io
+name: yumi
+url: http://yumi2000.github.io
 description: IN GOD WE TRUST 
-github: wangybehere
-gravatar_url: http://www.gravatar.com/avatar/e7a95885528074f5c7bd13373ae73d97.png
+github: yumi2000
+gravatar_url: http://img3.douban.com/icon/ul2352991-3.jpg
 
